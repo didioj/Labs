@@ -4,4 +4,4 @@ Mattermost handle: didioj
 
 github id: didioj
 
-![octocat](Capture.png)
+![didioj](Capture.png)
