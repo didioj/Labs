@@ -1,6 +1,6 @@
 ## Jakob Didio
 
-![didioj](Capture.png)
+![didioj](Labs/Capture.png)
 
 Mattermost handle: didioj
 
