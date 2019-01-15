@@ -17,3 +17,8 @@ defeat. Systems that suppress the exchange of ideas and pursuit of progress by m
 assist with that. And it's not only programmers that benefit as well. The author mentioned that the artists that work with the lobby
 do not earn nearly as much as the lobby itself, so by working against that system, they are helping represent the rights of others as well.
 And I look forward to assisting this movement, to help myself and fellow students.
+
+
+### Tree Screenshot
+
+![tree](Images/Tree.PNG)
