@@ -49,3 +49,7 @@ And I look forward to assisting this movement, to help myself and fellow student
 ![thirdpuzzle](Images/cross3.PNG)
 
 ![fourthpuzzle](Images/cross4.PNG)
+
+### Blockly Puzzle solution
+
+![blocklypuzzle](Images/puzzle.PNG)
