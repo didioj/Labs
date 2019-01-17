@@ -39,3 +39,13 @@ And I look forward to assisting this movement, to help myself and fellow student
 ![sixthpuzzle](Images/puzzle6.PNG)
 
 ![seventhpuzzle](Images/puzzle7.PNG)
+
+### Regex 4 Puzzles screenshots
+
+![firstpuzzle](Images/cross1.PNG)
+
+![secondpuzzle](Images/cross2.PNG)
+
+![thirdpuzzle](Images/cross3.PNG)
+
+![fourthpuzzle](Images/cross4.PNG)
