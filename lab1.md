@@ -1,3 +1,5 @@
+## Lab 1:
+
 ### Reading Assignment Analysis:
 
 #### Speaking from experience as a Data Structures mentor, it is helpful to answer questions these two ways:
@@ -53,3 +55,7 @@ And I look forward to assisting this movement, to help myself and fellow student
 ### Blockly Puzzle solution
 
 ![blocklypuzzle](Images/puzzle.PNG)
+
+### Open Source Project Interest Paragraph:
+
+One open source project that I am interested in working on is the video game The Battle for Wesnoth. It is a free to play, turn-based strategy game set in a fantasy realm. The game's core engine is written in C++, and it has been developed in the open source community since 2003, after being conceived by David White. I feel that I could contribute to this project by adding small features to the game and fixing known bugs. The issues page for the project on GitHub currently contains 916 entries, with issues ranging from known bugs in the game code to suggestions for small, quality-of-life features. With my background in C++, I feel that I would be well equipped to help with many of the suggested improvements. To get started with helping with the project, the current project managers offer a developer's wiki and many tutorials to help. So in all, I am excited to help and work on this project with a motivated community.
