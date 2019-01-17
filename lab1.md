@@ -22,3 +22,20 @@ And I look forward to assisting this movement, to help myself and fellow student
 ### Tree Screenshot
 
 ![tree](Images/Tree.PNG)
+
+
+### Regex 7 Puzzles screenshots
+
+![first puzzle](Images/Puzzle 1.PNG)
+
+![second puzzle](Images/puzzle 2.PNG)
+
+![third puzzle](Images/puzzle 3.PNG)
+
+![fourth puzzle](Images/puzzle 4.PNG)
+
+![fifth puzzle](Images/puzzle 5.PNG)
+
+![sixth puzzle](Images/puzzle 6.PNG)
+
+![seventh puzzle](Images/puzzle 7.PNG)
