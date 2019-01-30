@@ -20,6 +20,8 @@ approximately 12 weeks ago.
 
 ![gitstats](Images/gitstats.png)
 
+![gource](Images/gource.PNG)
+
 ### Links:
 
 Code: https://github.com/didioj/Labs/blob/master/markdown.py  
