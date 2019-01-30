@@ -18,7 +18,7 @@ approximately 12 weeks ago.
 
 ![results](Images/unittest2.PNG)
 
-![gitstats](Images/gitstats.PNG)
+![gitstats](Images/gitstats.png)
 
 ### Links:
 
