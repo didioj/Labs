@@ -18,4 +18,12 @@ approximately 12 weeks ago.
 
 ![results](Images/unittest2.PNG)
 
+![gitstats](Images/gitstats.PNG)
+
 ### Links:
+
+Code: https://github.com/didioj/Labs/blob/master/markdown.py
+Test code: 
+https://github.com/didioj/Labs/blob/master/test_markdown_unittest.py
+Youtube playlist for gource for projects: 
+https://www.youtube.com/playlist?list=PLqK4XFvVMI8WY_5vDILij_2Bfbp2nEowM
