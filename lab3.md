@@ -1,5 +1,7 @@
-# RPEye Analysis
+# Lab 3
 ### By Jakob Didio
+
+### RPEye Analysis:
 
 Number of Contributors: 18  
 Number of lines of code: 76224  
