@@ -24,6 +24,8 @@ approximately 12 weeks ago.
 
 ![gource](Images/gource.PNG)
 
+![latex](Images/latex.PNG)
+
 ### Links:
 
 Code: https://github.com/didioj/Labs/blob/master/markdown.py  
