@@ -21,3 +21,6 @@ Website | License Present | License
 ---------|:----------|:-------
 https://github.com/cam626/rpeye | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
 https://github.com/Second-String/SecondString_old | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
+https://github.com/V2grad/Organizer | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
+https://github.com/zdward/GroupRideiOS | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
+https://github.com/rushmeteam/rushmeios | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
