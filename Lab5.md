@@ -2,6 +2,37 @@
 
 ## Part 1:
 
+### Results from Step 1:
+
+![run1](Images/step1run1.PNG)
+
+![run2](Images/step1run2.PNG)
+
+![run3](Images/step1run3.PNG)
+
+### Results from Step 2:
+
+![run1](Images/step2run1.PNG)
+
+![run2](Images/step2run2.PNG)
+
+### Results from Step 3:
+
+![run1](Images/step3run1.PNG)
+
+
+### Results from Step 4:
+
+![run1](Images/step4run1.PNG)
+
+
+### Results from Step 5:
+
+![run1](Images/step5run1.PNG)
+
+![run2](Images/step5run2.PNG)
+
+
 
 ## Part 2:
 
