@@ -313,7 +313,7 @@ program2 shared library: 8784 KB
 ### Program Results:
 
 #### Program 1:
-[!Program](Images/program1.PNG)
+![Program](Images/program1.PNG)
 
 #### Program 2:
-[!Program2](Images/program2.PNG)
+![Program2](Images/program2.PNG)
