@@ -161,7 +161,8 @@ def generate_graph(words):
                 startlet = frozenset(start)
                 endlet = frozenset(end)
                 if len(startlet.intersection(endlet)) == 4:
-                    G.add_edge(start, end)
+                    if not G.has_edge(start, end):
+                        G.add_edge(start, end)
     return G
 
 
