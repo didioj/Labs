@@ -52,4 +52,4 @@
 
 ### Link to project observatory:
 
-![link](https://rcos.io/projects/stupdown/stupdown-atom-md/profile)
+[link](https://rcos.io/projects/stupdown/stupdown-atom-md/profile)
