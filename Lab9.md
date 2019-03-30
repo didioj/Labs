@@ -58,3 +58,7 @@ Finally, I used curl to add and modify some messages in the container.
 
 ![curlcomplete](Images/curlmessage1.PNG)
 ![curlmodded](Images/curlmessage2.PNG)
+
+## Miscellaneous Observation:
+
+In all, I think Docker is a useful platform for running consistent applications between architectures, and the variety of available images appears to be quite useful and intuitive to run.
