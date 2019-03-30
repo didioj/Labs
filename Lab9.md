@@ -41,6 +41,7 @@ Next, I created a Dockerfile to install a Python distribution, and I built it an
 
 ![pythoninstall](Images/pythoninstall.PNG)
 ![success](Images/pythonsuccess.PNG)
+![working](Images/pythonwork.PNG)
 
 ### Example 04:
 
